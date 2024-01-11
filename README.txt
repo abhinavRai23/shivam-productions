@@ -1,6 +1,6 @@
 
 TITLE: 
-Fotografy - One Page Responsive Free HTML5 template
+Shivam Productions - One Page Responsive Free HTML5 template
 
 AUTHOR:
 DESIGNED & DEVELOPED by FREEHTML5.co
